@@ -3,7 +3,7 @@
 
 ## Education
 
-<table>
+<table width="100%">
 <tr>
     <td width="30%"><font size="4">Bachelor of Engineering</font></td>
     <td width="65%"><font size="4">Sep. 2014 - Jun. 2018, Intelligence Science and Technology</font></td>
@@ -29,10 +29,14 @@
 
 ## Experience
 
-<table>
+<table width="100%">
 <tr>
     <td width="30%"><font size="4">Research Engineer</font></td>
-    <td width="65%"><font size="4">Apr. 2021 - Now, Beijing Institude for General Artificial Intelligence</font></td>
+    <td width="65%"><font size="4">Apr. 2021 - Now, Computer Vision and Robotics</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">Beijing Institude for General Artificial Intelligence</font></td>
 </tr>
 <tr>
     <td width="30%"><font size="4"></font></td>
