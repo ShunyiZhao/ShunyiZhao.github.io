@@ -1,5 +1,31 @@
-<div align="center"><font size='40'>Shunyi Zhao</font></div>
-<div align="center"><font size='30'>Email: shunyizhao@mail.nankai.edu.cn</font></div>
+<div align="center"><font size="9">Shunyi Zhao</font></div>
+<div align="center"><font size='5'>Email: shunyizhao@mail.nankai.edu.cn</font></div>
+
+<div align="left"><font size='6'>Education</font></div>
+
+<table>
+<tr>
+    <td width="30%"><font size="4">Bachelor of Engineering</font></td>
+    <td width="65%"><font size="4">Sep. 2014 - Jun. 2018, Intelligence Science and Technology</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">Nankai University, Tianjin, P.R. China</font></td>
+</tr>
+
+<tr>
+    <td width="30%"><font size="4">Master of Science</font></td>
+    <td width="65%"><font size="4">Sep. 2019 - Dec. 2020, Computer Science</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">University of Bristol, Bristol, UK</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">Distinction Degree</font></td>
+</tr>
+</table>
 
 ## Welcome to GitHub Pages
 
