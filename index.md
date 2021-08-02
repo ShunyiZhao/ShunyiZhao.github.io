@@ -1,8 +1,6 @@
 <div align="center"><font size="9">Shunyi Zhao</font></div>
 <div align="center"><font size='5'>Email: shunyizhao@mail.nankai.edu.cn</font></div>
 
-<div align="left"><font size='6' color="rgb(150, 20, 30)">Education</font></div>
-
 ## Education
 
 <table>
@@ -28,6 +26,21 @@
     <td width="65%"><font size="4">Distinction Degree</font></td>
 </tr>
 </table>
+
+## Experience
+
+<table>
+<tr>
+    <td width="30%"><font size="4">Research Engineer</font></td>
+    <td width="65%"><font size="4">Apr. 2021 - Now, Beijing Institude for General Artificial Intelligence</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">Beijing, P.R. China</font></td>
+</tr>
+</table>
+
+## Projects
 
 ## Welcome to GitHub Pages
 
