@@ -3,6 +3,8 @@
 
 <div align="left"><font size='6' color="rgb(150, 20, 30)">Education</font></div>
 
+## Education
+
 <table>
 <tr>
     <td width="30%"><font size="4">Bachelor of Engineering</font></td>
