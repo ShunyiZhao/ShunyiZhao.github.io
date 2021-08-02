@@ -1,4 +1,5 @@
-<div align="center"><font size='50'>Shunyi Zhao</font></div>
+<div align="center"><font size='40'>Shunyi Zhao</font></div>
+<div align="center"><font size='30'>Email: shunyizhao@mail.nankai.edu.cn</font></div>
 
 ## Welcome to GitHub Pages
 
