@@ -36,7 +36,7 @@
 </tr>
 <tr>
     <td width="30%"><font size="4"></font></td>
-    <td width="65%"><font size="4">Beijing Institude for General Artificial Intelligence</font></td>
+    <td width="65%"><font size="4">Beijing Institute for General Artificial Intelligence</font></td>
 </tr>
 <tr>
     <td width="30%"><font size="4"></font></td>
@@ -45,6 +45,40 @@
 </table>
 
 ## Projects
+
+## Activities
+
+-----------------------------------------------
+
+## 教育经历
+
+<table width="100%">
+<tr>
+    <td width="30%"><font size="4">工学学士</font></td>
+    <td width="65%"><font size="4">2014年09月 至 2018年06月, 智能科学与技术</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">南开大学, 中国天津市</font></td>
+</tr>
+
+<tr>
+    <td width="30%"><font size="4">理学硕士</font></td>
+    <td width="65%"><font size="4">2019年09月 至 2020年12月, 计算机科学</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">布里斯托大学, 英国布里斯托市</font></td>
+</tr>
+<tr>
+    <td width="30%"><font size="4"></font></td>
+    <td width="65%"><font size="4">一等学位</font></td>
+</tr>
+</table>
+
+## 业余爱好
+
+欢迎志同道合的同志一起欣赏相声、评书。
 
 ## Welcome to GitHub Pages
 
