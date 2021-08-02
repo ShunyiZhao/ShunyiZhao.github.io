@@ -1,7 +1,7 @@
 <div align="center"><font size="9">Shunyi Zhao</font></div>
 <div align="center"><font size='5'>Email: shunyizhao@mail.nankai.edu.cn</font></div>
 
-<div align="left"><font size='6'>Education</font></div>
+<div align="left"><font size='6' color="rgb(150, 20, 30)">Education</font></div>
 
 <table>
 <tr>
