@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shunyi Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My research interests include Computer Vision, SLAM, and Robotics"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Beijing Institute for General Artificial Intelligence"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=YZDkM60AAAAJ&hl=zh-CN"
+  email            : "zhaoshunyi@bigai.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
