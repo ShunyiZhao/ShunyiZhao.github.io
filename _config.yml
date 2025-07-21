@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shunyi Zhao"
 title_separator          : "-"
 name                     : &name "Shunyi Zhao"
-description              : &description "Research Engineer at Beijing Institute for General Artificial Intelligence"
+description              : &description "A Ph.D. Student at Peking University"
 url                      : https://shunyizhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShunyiZhao/ShunyiZhao.github.io"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "My research interests include Computer Vision, SLAM, and Robotics"
   location         : "Beijing, China"
-  employer         : "Beijing Institute for General Artificial Intelligence"
+  employer         : "Peking University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YZDkM60AAAAJ&hl=zh-CN"
-  email            : "zhaoshunyi@bigai.ai"
+  email            : "shunyizhao@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
