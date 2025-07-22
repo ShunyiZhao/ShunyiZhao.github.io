@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Shunyi Zhao"
-  avatar           : "profile.png"
-  bio              : "My research interests include Computer Vision, SLAM, and Robotics"
+  avatar           : "shunyi.jpg"
+  bio              : "My research interests include Computer Vision, SLAM, and Robotics."
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6630-7799"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
