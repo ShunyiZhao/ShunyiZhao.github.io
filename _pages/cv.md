@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,20 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Intelligence Science and Technology, Nankai University, 2018
-* M.S. in Computer Science, University of Bristol, 2020
+* B.Eng. in Intelligence Science and Technology, Nankai University, 2014 - 2018
+* M.S. in Computer Science, University of Bristol, 2019 - 2020
+* Ph.D. in Integrated Circuits, Peking University, 2024 - Now
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2018.06 - 2019.06: Research Assistant
+  * Tianjin University
+* 2021.04 - 2024.06: Research Engineering
+  * National Key Labratory for General Artificial Intelligence, Beijing Institute for General Artificial Intelligence
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -33,7 +30,6 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -41,18 +37,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Personal Interests
 ======
-* Currently signed in to 43 different slack teams
+* Xiangsheng (Chinese Traditional Comic Dialogue)
+* Photography
