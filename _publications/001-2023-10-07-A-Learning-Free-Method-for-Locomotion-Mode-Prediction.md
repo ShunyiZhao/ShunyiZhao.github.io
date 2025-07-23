@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/10268460'
 citation: 'Zhao, Shunyi, et al. "A learning-free method for locomotion mode prediction by terrain reconstruction and visual-inertial odometry." IEEE Transactions on Neural Systems and Rehabilitation Engineering 31 (2023): 3895-3905.'
 ---
 
-[Click here to download this paper.](http://shunyizhao.github.io/files/A_Learning-Free_Method_for_Locomotion_Mode_Prediction_by_Terrain_Reconstruction_and_Visual-Inertial_Odometry.pdf)
+[Click here to download this paper.](https://ieeexplore.ieee.org/abstract/document/10268460)
 
 Bibtex citation:
 ```
