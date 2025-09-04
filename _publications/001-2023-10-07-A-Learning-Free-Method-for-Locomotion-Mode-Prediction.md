@@ -2,7 +2,7 @@
 title: "A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry"
 collection: Journal
 permalink: /publication/A-Learning-free
-excerpt: 'None'
+excerpt: ""
 date: 2023-10-02
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10268460'
