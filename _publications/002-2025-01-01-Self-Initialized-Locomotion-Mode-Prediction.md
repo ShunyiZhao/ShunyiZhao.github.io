@@ -3,7 +3,7 @@ title: "Self-Initialized Locomotion Mode Prediction with GPU-Free Terrain Recons
 collection: Journal
 permalink: /publication/self-initialized-locomotion
 excerpt: ""
-date: 2026
+date: 2026-01-01
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (Under Review)'
 paperurl: ''
 citation: 'Zhao, Shunyi*, Zehuan Yu*, Zhihao Zhou, Lecheng Ruan, and Qining Wang. "Self-Initialized Locomotion Mode Prediction with GPU-Free Terrain Reconstruction." IEEE Transactions on Neural Systems and Rehabilitation Engineering (Under Review).'
