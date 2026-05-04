@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computer Science (Candidate)** — Peking University, Beijing, China — 2024–Present
+* **Ph.D. (Candidate)** — Peking University, Beijing, China — 2024–Present
   * School of Integrated Circuits
 * **M.Sc. in Computer Science (Awarded with Distinction)** — University of Bristol, Bristol, UK — 2019–2020
   * School of Computer Science
 * **B.Eng. in Intelligence Science and Technology** — Nankai University, Tianjin, China — 2014–2018
-  * College of Computer Science and Control Engineering
+  * College of Computer and Control Engineering
 
 Work Experience
 ======
@@ -54,7 +54,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
